@@ -19,10 +19,6 @@ Email: yangchang@deepin.org
 
 高
 
-## 参考文档
-
-https://wiki.deepin.org/zh/06_%E5%85%B3%E4%BA%8EDeepin/Deepin%E6%B4%BB%E5%8A%A8/GSoC2024/%E6%8F%90%E6%A1%88/riscv-gpu-on-deepin
-
 ## 预期目标
 
 可能的成果包括
