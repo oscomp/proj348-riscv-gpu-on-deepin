@@ -19,6 +19,9 @@ Imagination PVR 是 RISC-V 平台上的主要 GPU 厂商，大多数 RISC-V 开�
 Github: YukariChiba
 Email: yangchang@deepin.org
 
+## 赛题分类
+图形库（如支持X11的图形库、LVGL等）
+
 ## 难度
 
 较高
